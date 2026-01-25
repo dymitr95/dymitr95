@@ -7,7 +7,7 @@
 Building scalable healthcare systems with **.NET**, **microservices**, and **DevOps**.  
 4+ years of commercial experience owning solutions from code to production.
 
-**Stack:** .NET Core, Angular, Docker, Kubernetes, SQL (PostreSQL, Oracle), MongoDB, CI/CD, Linux
+**Stack:** .NET Core, Angular, Docker, Kubernetes, SQL (PostgreSQL, Oracle), MongoDB, CI/CD, Linux
 
 🔗 · [LinkedIn](https://linkedin.com/in/dymitr-dragalow-272828209)
 
