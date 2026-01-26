@@ -5,7 +5,7 @@
 📍 Poland
 
 Building scalable systems with **.NET**, **microservices**, and **DevOps**.  
-4+ years of commercial experience owning solutions from code to production.
+4.5+ years of commercial experience owning solutions from code to production.
 
 **Stack:** .NET Core, Angular, RabbitMQ, Docker, Kubernetes, SQL (PostgreSQL, Oracle), MongoDB, CI/CD, Linux
 
